@@ -1,6 +1,6 @@
 {
   "author": "Sky Ao <aoxiaojian@gmail.cn>",
-  "description": "Design Document of Dolphin Microservice Framework",
+  "description": "Reference Document of Dolphin Microservice Framework",
   "extension": null,
   "generator": "site",
   "sidebar": {
@@ -21,7 +21,7 @@
     "paperSize": "a4"
   },
   "plugins": [],
-  "title": "Design Document of Dolphin Microservice Framework",
+  "title": "Reference Document of Dolphin Microservice Framework",
   "variables": {
   }
 }
