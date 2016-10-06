@@ -1,8 +1,8 @@
-# dolphin-doc
+# Dolphin Doc
 
-Documentations for [Dolphin Microservice Framework](https://github.com/basiccloud/dolphin).
+Documentation for [Dolphin Microservice Framework](https://github.com/basiccloud/dolphin).
 
-Each branch presents one documentation, and is published in [gitbook](https://gitbook.io) format:
+Each branch presents a documentation, and is published in [gitbook](https://www.gitbook.com) format:
 
 | Git Branch | Document |  Publish URL |
 |--------|--------|--------|
