@@ -1,27 +1,17 @@
 {
-  "author": "Sky Ao <aoxiaojian@gmail.cn>",
-  "description": "Design Document of Dolphin Microservice Framework",
-  "extension": null,
-  "generator": "site",
-  "sidebar": {
-    "BasicCloud": "http://dolphin.basiccloud.net"
-  },
-  "output": null,
-  "pdf": {
-    "fontSize": 12,
-    "footerTemplate": null,
-    "headerTemplate": null,
-    "margin": {
-      "bottom": 36,
-      "left": 62,
-      "right": 62,
-      "top": 36
-    },
-    "pageNumbers": false,
-    "paperSize": "a4"
-  },
-  "plugins": [],
-  "title": "Design Document of Dolphin Microservice Framework",
-  "variables": {
+  "gitbook": ">=3.2.0",
+  "plugins": [
+    "toggle-chapters",
+    "edit-link", 
+    "etoc",
+    "back-to-top-button",
+    "tags"
+  ],
+  "pluginsConfig": {
+    "edit-link": {
+        "base": "https://github.com/basiccloud/dolphin-doc/edit/design",
+        "label": "Edit"
+    }
   }
 }
+

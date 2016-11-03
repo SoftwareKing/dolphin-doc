@@ -1,10 +1,13 @@
-# Design Document of Dolphin Microservice Framework
+# Documentation
 
-## 介绍
+## Navigator
 
+If you see the source code in github, please click on below link to view the HTML content of this documentation:
+
+[Design Document of Dolphin Microservice Framework](https://design.dolphin.basiccloud.net)
 
 ## 导航
 
 如果看到的是github的源代码, 请点击下面的链接查看文档:
 
-[Design Document of Dolphin Microservice Framework](https://design.dolphin.basiccloud.net)
+[Dolphin 微服务框架设计文档](https://design.dolphin.basiccloud.net)
