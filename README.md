@@ -8,6 +8,6 @@ If you see the source code in github, please click on below link to view the HTM
 
 ## 导航
 
-如果看到的是github的源代码, 请点击下面的链接查看文档:
+如果看到的是github的源代码, 请点击下面的链接查看文档的HTML内容:
 
 [Dolphin 微服务框架设计文档](https://design.dolphin.basiccloud.net)
